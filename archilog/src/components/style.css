@@ -1,0 +1,32 @@
+
+.form{
+padding: 100px;
+color: black;
+}
+.txtforms{
+    width: 50%;
+    font-size: 50px;
+    padding: 20px;
+}
+.btnforms{
+    margin: 0 10px;
+}
+.Connect{
+    width: 600px;
+    margin: 40px auto;
+    border: solid rgba(128, 128, 128, 0.349) 0.5px;
+    padding: 100px;
+    text-align: center;
+}
+.carousel{
+    height: auto;
+    width: 800px;
+}
+.format{
+    width: 20%;
+    height: auto;
+}
+.formatinfom{
+    text-align: center;
+    padding: 40px;
+}
